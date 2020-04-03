@@ -6,3 +6,4 @@ import ua.lviv.iot.spring.first.rest.model.Student;
 @Repository
 public interface StudentRepository extends JpaRepository<Student, Integer> {
 }
+
